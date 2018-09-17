@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "443536874796",
+    "firebase_url": "https://mzansi-restus.firebaseio.com",
+    "project_id": "mzansi-restus",
+    "storage_bucket": "mzansi-restus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443536874796:android:e8b34ddbdb2f02d2",
+        "android_client_info": {
+          "package_name": "com.example.thabang.mzansirestus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443536874796-8g10nv2d4peop61vojk12ajg2pau8k9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thabang.mzansirestus",
+            "certificate_hash": "2abd8678d35c33415f6d462a30882876ac9a1e0b"
+          }
+        },
+        {
+          "client_id": "443536874796-kgrcaai4kq3u1fr4rv50sj7hrh20nfi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZE3Cl3oce-MuqX_ulBKstlwQ82ygnop4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443536874796-kgrcaai4kq3u1fr4rv50sj7hrh20nfi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

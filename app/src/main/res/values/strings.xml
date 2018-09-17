@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mzansi Restus</string>
+    <string name="hint_number">Enter Phone Number</string>
+    <string name="login_with">Login With</string>
+    <string name="or">OR</string>
+    <string name="button_submit">Submit</string>
+    <string name="text_verification_message">A varification code has been sent to your mobile via sms.</string>
+    <string name="text_input_verify_hint">Enter Varififcation Code</string>
+    <string name="button_text_verify">Verify</string>
+    <string name="text_verification_page">Verification Code</string>
+    <string name="text_disclaimer">Agree to terms and conditions</string>
+    <string name="title_activity_landing">LandingActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_shop_owner">ShopOwnerActivity</string>
+</resources>
